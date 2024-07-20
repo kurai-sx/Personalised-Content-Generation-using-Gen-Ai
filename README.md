@@ -18,3 +18,6 @@ pip install requirements.txt
 ```bash
 python -m streamlit run app.py
 ```
+
+## Contributors
+<a href="https://github.com/Ganeshkharde1" target="_blank" ><img src="https://avatars.githubusercontent.com/u/97901582?v=4" href="https://github.com/Ganeshkharde1" width="50"/> </a> <img src="https://avatars.githubusercontent.com/u/84697122?v=4" href="https://github.com/kurai-sx" alt="kurai-sx" width="50"/>
