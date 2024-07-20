@@ -5,7 +5,7 @@ import google.generativeai as genai
 model = genai.GenerativeModel('gemini-pro')
 
 #API Key
-genai.configure(api_key="AIzaSyAVdp5Lvzy1azY8LtpQPOcTCS-fUh5geHQ")
+genai.configure(api_key="Gemini API Key")
 
 st.set_page_config(
     page_title="Personalised Content Generator",
